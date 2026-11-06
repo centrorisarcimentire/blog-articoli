@@ -1,0 +1,35 @@
+# Coda pagine da riscrivere (in ordine di priorità)
+Ogni riga: file | stato. Il task cloud prende le prime 2 righe "da fare" al giorno.
+
+infortunio-mortale-lavoro.html | fatto 2026-11-06
+caduta-sul-lavoro.html | da fare
+danno-biologico-infortunio-lavoro.html | da fare
+differenza-inail-risarcimento.html | da fare
+mancata-sicurezza-lavoro.html | da fare
+termini-infortunio-lavoro.html | da fare
+quanto-vale-infortunio-lavoro.html | da fare
+tempi-risarcimento-infortunio-lavoro.html | da fare
+errore-dentista.html | da fare
+danno-morale-malasanita.html | da fare
+termini-malasanita.html | da fare
+danno-biologico-malasanita.html | da fare
+chirurgia-estetica-errore.html | da fare
+perdita-di-chance-medica.html | da fare
+consenso-informato.html | da fare
+danni-a-terzi.html | da fare
+danno-da-insidia-stradale.html | da fare
+termini-responsabilita-civile.html | da fare
+responsabilita-condominio.html | da fare
+tempi-risarcimento-responsabilita-civile.html | da fare
+quanto-vale-responsabilita-civile.html | da fare
+danno-da-custodia.html | da fare
+infortuni-gravi.html | da fare
+malattie-professionali.html | da fare
+cadute-luoghi-pubblici.html | da fare
+danni-da-animali.html | da fare
+danni-da-immobili.html | da fare
+danni-da-terzi.html | da fare
+diagnosi-tardiva-errata.html | da fare
+responsabilita-datore-lavoro.html | da fare
+errore-chirurgico.html | da fare
+errore-farmacologico.html | da fare
