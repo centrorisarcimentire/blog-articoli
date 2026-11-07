@@ -2,8 +2,8 @@
 Ogni riga: file | stato. Il task cloud prende le prime 2 righe "da fare" al giorno.
 
 infortunio-mortale-lavoro.html | fatto 2026-11-06
-caduta-sul-lavoro.html | da fare
-danno-biologico-infortunio-lavoro.html | da fare
+caduta-sul-lavoro.html | fatto 2026-11-07
+danno-biologico-infortunio-lavoro.html | fatto 2026-11-07
 differenza-inail-risarcimento.html | da fare
 mancata-sicurezza-lavoro.html | da fare
 termini-infortunio-lavoro.html | da fare
