@@ -4,8 +4,8 @@ Ogni riga: file | stato. Il task cloud prende le prime 2 righe "da fare" al gior
 infortunio-mortale-lavoro.html | fatto 2026-11-06
 caduta-sul-lavoro.html | fatto 2026-11-07
 danno-biologico-infortunio-lavoro.html | fatto 2026-11-07
-differenza-inail-risarcimento.html | da fare
-mancata-sicurezza-lavoro.html | da fare
+differenza-inail-risarcimento.html | fatto 2026-11-08
+mancata-sicurezza-lavoro.html | fatto 2026-11-08
 termini-infortunio-lavoro.html | da fare
 quanto-vale-infortunio-lavoro.html | da fare
 tempi-risarcimento-infortunio-lavoro.html | da fare
