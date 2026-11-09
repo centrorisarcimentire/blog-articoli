@@ -6,8 +6,8 @@ caduta-sul-lavoro.html | fatto 2026-11-07
 danno-biologico-infortunio-lavoro.html | fatto 2026-11-07
 differenza-inail-risarcimento.html | fatto 2026-11-08
 mancata-sicurezza-lavoro.html | fatto 2026-11-08
-termini-infortunio-lavoro.html | da fare
-quanto-vale-infortunio-lavoro.html | da fare
+termini-infortunio-lavoro.html | fatto 2026-11-09
+quanto-vale-infortunio-lavoro.html | fatto 2026-11-09
 tempi-risarcimento-infortunio-lavoro.html | da fare
 errore-dentista.html | da fare
 danno-morale-malasanita.html | da fare
