@@ -8,8 +8,8 @@ differenza-inail-risarcimento.html | fatto 2026-11-08
 mancata-sicurezza-lavoro.html | fatto 2026-11-08
 termini-infortunio-lavoro.html | fatto 2026-11-09
 quanto-vale-infortunio-lavoro.html | fatto 2026-11-09
-tempi-risarcimento-infortunio-lavoro.html | da fare
-errore-dentista.html | da fare
+tempi-risarcimento-infortunio-lavoro.html | fatto 2026-11-10
+errore-dentista.html | fatto 2026-11-10
 danno-morale-malasanita.html | da fare
 termini-malasanita.html | da fare
 danno-biologico-malasanita.html | da fare
