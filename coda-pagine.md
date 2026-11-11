@@ -10,8 +10,8 @@ termini-infortunio-lavoro.html | fatto 2026-11-09
 quanto-vale-infortunio-lavoro.html | fatto 2026-11-09
 tempi-risarcimento-infortunio-lavoro.html | fatto 2026-11-10
 errore-dentista.html | fatto 2026-11-10
-danno-morale-malasanita.html | da fare
-termini-malasanita.html | da fare
+danno-morale-malasanita.html | fatto 2026-11-11
+termini-malasanita.html | fatto 2026-11-11
 danno-biologico-malasanita.html | da fare
 chirurgia-estetica-errore.html | da fare
 perdita-di-chance-medica.html | da fare
