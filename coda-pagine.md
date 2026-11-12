@@ -12,8 +12,8 @@ tempi-risarcimento-infortunio-lavoro.html | fatto 2026-11-10
 errore-dentista.html | fatto 2026-11-10
 danno-morale-malasanita.html | fatto 2026-11-11
 termini-malasanita.html | fatto 2026-11-11
-danno-biologico-malasanita.html | da fare
-chirurgia-estetica-errore.html | da fare
+danno-biologico-malasanita.html | fatto 2026-11-12
+chirurgia-estetica-errore.html | fatto 2026-11-12
 perdita-di-chance-medica.html | da fare
 consenso-informato.html | da fare
 danni-a-terzi.html | da fare
