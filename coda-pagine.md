@@ -14,8 +14,8 @@ danno-morale-malasanita.html | fatto 2026-11-11
 termini-malasanita.html | fatto 2026-11-11
 danno-biologico-malasanita.html | fatto 2026-11-12
 chirurgia-estetica-errore.html | fatto 2026-11-12
-perdita-di-chance-medica.html | da fare
-consenso-informato.html | da fare
+perdita-di-chance-medica.html | fatto 2026-11-13
+consenso-informato.html | fatto 2026-11-13
 danni-a-terzi.html | da fare
 danno-da-insidia-stradale.html | da fare
 termini-responsabilita-civile.html | da fare
