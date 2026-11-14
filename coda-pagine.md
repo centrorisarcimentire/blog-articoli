@@ -16,8 +16,8 @@ danno-biologico-malasanita.html | fatto 2026-11-12
 chirurgia-estetica-errore.html | fatto 2026-11-12
 perdita-di-chance-medica.html | fatto 2026-11-13
 consenso-informato.html | fatto 2026-11-13
-danni-a-terzi.html | da fare
-danno-da-insidia-stradale.html | da fare
+danni-a-terzi.html | fatto 2026-11-14
+danno-da-insidia-stradale.html | fatto 2026-11-14
 termini-responsabilita-civile.html | da fare
 responsabilita-condominio.html | da fare
 tempi-risarcimento-responsabilita-civile.html | da fare
