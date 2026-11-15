@@ -18,8 +18,8 @@ perdita-di-chance-medica.html | fatto 2026-11-13
 consenso-informato.html | fatto 2026-11-13
 danni-a-terzi.html | fatto 2026-11-14
 danno-da-insidia-stradale.html | fatto 2026-11-14
-termini-responsabilita-civile.html | da fare
-responsabilita-condominio.html | da fare
+termini-responsabilita-civile.html | fatto 2026-11-15
+responsabilita-condominio.html | fatto 2026-11-15
 tempi-risarcimento-responsabilita-civile.html | da fare
 quanto-vale-responsabilita-civile.html | da fare
 danno-da-custodia.html | da fare
