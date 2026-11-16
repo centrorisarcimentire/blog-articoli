@@ -20,8 +20,8 @@ danni-a-terzi.html | fatto 2026-11-14
 danno-da-insidia-stradale.html | fatto 2026-11-14
 termini-responsabilita-civile.html | fatto 2026-11-15
 responsabilita-condominio.html | fatto 2026-11-15
-tempi-risarcimento-responsabilita-civile.html | da fare
-quanto-vale-responsabilita-civile.html | da fare
+tempi-risarcimento-responsabilita-civile.html | fatto 2026-11-16
+quanto-vale-responsabilita-civile.html | fatto 2026-11-16
 danno-da-custodia.html | da fare
 infortuni-gravi.html | da fare
 malattie-professionali.html | da fare
