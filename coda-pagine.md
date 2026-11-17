@@ -28,7 +28,6 @@ malattie-professionali.html | da fare
 cadute-luoghi-pubblici.html | da fare
 danni-da-animali.html | da fare
 danni-da-immobili.html | da fare
-danni-da-terzi.html | da fare
 diagnosi-tardiva-errata.html | da fare
 responsabilita-datore-lavoro.html | da fare
 errore-chirurgico.html | da fare
