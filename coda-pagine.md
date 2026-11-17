@@ -22,8 +22,8 @@ termini-responsabilita-civile.html | fatto 2026-11-15
 responsabilita-condominio.html | fatto 2026-11-15
 tempi-risarcimento-responsabilita-civile.html | fatto 2026-11-16
 quanto-vale-responsabilita-civile.html | fatto 2026-11-16
-danno-da-custodia.html | da fare
-infortuni-gravi.html | da fare
+danno-da-custodia.html | fatto 2026-11-17
+infortuni-gravi.html | fatto 2026-11-17
 malattie-professionali.html | da fare
 cadute-luoghi-pubblici.html | da fare
 danni-da-animali.html | da fare
