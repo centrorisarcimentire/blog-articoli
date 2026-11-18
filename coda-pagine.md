@@ -24,8 +24,8 @@ tempi-risarcimento-responsabilita-civile.html | fatto 2026-11-16
 quanto-vale-responsabilita-civile.html | fatto 2026-11-16
 danno-da-custodia.html | fatto 2026-11-17
 infortuni-gravi.html | fatto 2026-11-17
-malattie-professionali.html | da fare
-cadute-luoghi-pubblici.html | da fare
+malattie-professionali.html | fatto 2026-11-18
+cadute-luoghi-pubblici.html | fatto 2026-11-18
 danni-da-animali.html | da fare
 danni-da-immobili.html | da fare
 diagnosi-tardiva-errata.html | da fare
