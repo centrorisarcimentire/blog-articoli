@@ -26,8 +26,8 @@ danno-da-custodia.html | fatto 2026-11-17
 infortuni-gravi.html | fatto 2026-11-17
 malattie-professionali.html | fatto 2026-11-18
 cadute-luoghi-pubblici.html | fatto 2026-11-18
-danni-da-animali.html | da fare
-danni-da-immobili.html | da fare
+danni-da-animali.html | fatto 2026-11-19
+danni-da-immobili.html | fatto 2026-11-19
 diagnosi-tardiva-errata.html | da fare
 responsabilita-datore-lavoro.html | da fare
 errore-chirurgico.html | da fare
