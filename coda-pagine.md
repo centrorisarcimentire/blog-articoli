@@ -28,7 +28,7 @@ malattie-professionali.html | fatto 2026-11-18
 cadute-luoghi-pubblici.html | fatto 2026-11-18
 danni-da-animali.html | fatto 2026-11-19
 danni-da-immobili.html | fatto 2026-11-19
-diagnosi-tardiva-errata.html | da fare
-responsabilita-datore-lavoro.html | da fare
+diagnosi-tardiva-errata.html | fatto 2026-11-20
+responsabilita-datore-lavoro.html | fatto 2026-11-20
 errore-chirurgico.html | da fare
 errore-farmacologico.html | da fare
